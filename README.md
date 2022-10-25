@@ -1,13 +1,34 @@
 # curso_git_filipe
 
 
+## [GIT PUSH comandos fundamentais](https://www.atlassian.com/br/git/tutorials/syncing/git-push)
+
+```
+ git checkout main
+```
+
+```
+ git fetch origin main
+```
+
+```
+ git rebase -i origin/main
+```
+
+```
+ git push origin main
+```
+
+
 [Dillinger - Editor de Markdown ](https://dillinger.io/)
 
 
 ## Iniciando um Repositório
- ```sh
- git init
+
  ```
+  git init
+ ```
+ 
 ### Apagando um repositório
 ```sh 
 rm -rf .git 
@@ -73,3 +94,5 @@ git branch -m novo-nome-da-branch
 ### Se você estiver em uma branch e quiser renomear outra, você deve passar primeiro o nome atual da branch que quer renomear:
 ```sh
 git branch -m nome-atual novo-nome
+
+
