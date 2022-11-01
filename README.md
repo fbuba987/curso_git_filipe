@@ -6,11 +6,6 @@
 ```
  git checkout main
 ```
-## [Como resolver o erro “xcrun: error: invalid active developer path” no macOS](https://marcoandrei.com/como-resolver-o-erro-xcrun-error-invalid-active-developer-path-no-macos/)
-
-```
- xcode-select --install
-```
 
 ```
  git fetch origin main
@@ -22,6 +17,12 @@
 
 ```
  git push origin main
+```
+
+## [Como resolver o erro “xcrun: error: invalid active developer path” no macOS](https://marcoandrei.com/como-resolver-o-erro-xcrun-error-invalid-active-developer-path-no-macos/)
+
+```
+ xcode-select --install
 ```
 
 
