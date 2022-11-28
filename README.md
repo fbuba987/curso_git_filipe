@@ -97,7 +97,7 @@ Para renomear a sua atual branch local, execute o comando branch com a opção -
 git branch -m novo-nome-da-branch
 ```
 
-### Se você estiver em uma branch e quiser renomear outra, você deve passar primeiro o nome atual da branch que quer renomear:
+### [Se você estiver em uma branch e quiser renomear outra, você deve passar primeiro o nome atual da branch que quer renomear:](https://www.hostinger.com.br/tutoriais/renomear-branch-git)
 ```sh
 git branch -m nome-atual novo-nome
 
