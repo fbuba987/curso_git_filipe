@@ -102,4 +102,5 @@ git branch -m novo-nome-da-branch
 git branch -m nome-atual novo-nome
 
 
-[Solução 1: mude para estratégia de mesclagem](https://www.cyberithub.com/solved-fatal-need-to-specify-how-to-reconcile-divergent-branches/#:~:text=Solution%201%3A%20Switch%20to%20Merge%20Strategy&text=You%20can%20use%20git%20config,instead%20of%20using%20rebasing%20strategy.&text=After%20switching%20back%20to%20default,the%20changes%20from%20main%20branch.)
+
+
